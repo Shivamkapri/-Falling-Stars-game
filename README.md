@@ -14,6 +14,8 @@ link:- https://catch-fallingstars-game.vercel.app/
 - JavaScript (Vanilla)
 
 ## How to Run
+url link:- https://catch-fallingstars-game.vercel.app/
+</br> OR</br>
 Open the index.html file in any modern web browser.
 
 ## Author
